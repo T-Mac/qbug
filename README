@@ -6,3 +6,4 @@ add 	[TITLE...]		Creates a new entry
 close 	[ID]			Marks a entry as Complete
 recall	[ID]			recalls a entry when a id is passed otherwise lists all entrys
 remark	[ID] [NOTE...]	add a note to  a entry
+test
